@@ -4,7 +4,6 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: An ultra customizable generic theme for Stackbit
 header:
   title: Starter
   has_nav: true
