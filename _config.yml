@@ -8,7 +8,7 @@ header:
   title: Sedan
   has_nav: true
   nav_links:
-    - label: Features
+    - label: Projects
       url: /features
       style: link
     - label: Blog
