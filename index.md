@@ -1,5 +1,5 @@
 ---
-title: HOMEHome
+title: Home
 sections:
   - type: hero_section
     title: Sedan Research Group
